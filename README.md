@@ -13,7 +13,7 @@ We implement algorithms with R on a Windows machine with 2.5 GHz Core(TM) i5-720
 
 We execute each experiment 20 times with random permutation of all datasets and average all of the results.
 
-The datasets are downloaded from: https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/.
+The datasets are downloaded from WEKA and UCI machine learning repository https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/.
 
 To execute the algorithms,
 the path of codes and datasets should be set to "F:/experiment/ML 2021/...".
