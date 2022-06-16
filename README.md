@@ -1,7 +1,7 @@
 # WSRegret-OKS
 Source codes of algorithms and datasets for our paper
 "Worst-case Regret Analysis of Computationally Budgeted Online Kernel Selection",
-accepted in ACML2021 Journal Track.
+accepted in ACML2021 Journal Track (Machine Mearning Journal).
 
 table 4, 5, 6 and 7 contain all of the codes.
 classification contains the classification datasets,
